@@ -4,10 +4,8 @@
 <hr>
 🖥️ | Programming languages ​​used:
 <ul>
-  <li><img align="center" weigh="20px" height="20px" alt"kotlin" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png)/> | Kotlin</li>
-  <li><img align="center" weigh="23px" height="23px" alt"c#" src="https://www.jennerstrand.se/wp-content/uploads/2021/09/net-maui-robot.png"/> | MAUI</li>
-  <li><img align="center" weigh="23px" height="23px" alt"maui" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png"/> | C#</li>
-  
+  <li><img align="center" weigh="20px" height="20px" alt"kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> | Kotlin</li>
+  <li><img align="center" weigh="23px" height="23px" alt"androidstudio" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png"/> | Android Studio</li>
 </ul>
 <hr>
 
